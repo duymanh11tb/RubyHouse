@@ -1,0 +1,9 @@
+node_modules
+dist
+.git
+.env
+data
+uploads/*
+!uploads/catalog
+!uploads/catalog/**
+*.log

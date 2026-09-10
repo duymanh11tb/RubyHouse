@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+data/
+uploads/*
+!uploads/.gitkeep
+!uploads/catalog/
+!uploads/catalog/**
+*.log

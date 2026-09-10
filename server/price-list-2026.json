@@ -1,0 +1,4388 @@
+{
+  "rooms": [
+    {
+      "id": "van-phuc-r301",
+      "location_id": "van-phuc",
+      "name": "Phòng R301",
+      "room_no": "R301",
+      "area": 50,
+      "bedrooms": 1,
+      "description": "50m2, 01 Bedroom, full furniture, city view, 2 balcony, front side",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 900.0,
+      "promotion_price": null,
+      "daily_price": "None",
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/1nAWFvF6TwtibUawU7eCuCZ6SudSd82y7?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/01.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/02.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/03.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/04.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/05.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/06.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/07.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/08.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/09.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/10.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/11.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/12.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/13.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/14.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        }
+      ]
+    },
+    {
+      "id": "van-phuc-r302",
+      "location_id": "van-phuc",
+      "name": "Phòng R302",
+      "room_no": "R302",
+      "area": 54,
+      "bedrooms": 1,
+      "description": "54m2, 01 Bedroom, full furniture, city view, 1 balcony, big window",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 900.0,
+      "promotion_price": null,
+      "daily_price": "1.000.000",
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/1whmtOc9jKrzV8qNMq3U6fDLPGMf7Gpln?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/01.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/02.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/03.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/04.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/05.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/06.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/07.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/08.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/09.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/10.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/11.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/12.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/13.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/14.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/15.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/16.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/17.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/18.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        }
+      ]
+    },
+    {
+      "id": "van-phuc-r303",
+      "location_id": "van-phuc",
+      "name": "Phòng R303",
+      "room_no": "R303",
+      "area": 56,
+      "bedrooms": 1,
+      "description": "56m2, 01 Bedroom, full furniture, city view, 1 balcony, big window",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 850.0,
+      "promotion_price": 800.0,
+      "daily_price": "1.000.000",
+      "availability": "available",
+      "album_url": "https://drive.google.com/drive/folders/1__mY1tBBKU07DUh1uAoW9vo205ldYt_b?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/01.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/02.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/03.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/04.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/05.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/06.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/07.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/08.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/09.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/10.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/11.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/12.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/13.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/14.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        }
+      ]
+    },
+    {
+      "id": "van-phuc-r401",
+      "location_id": "van-phuc",
+      "name": "Phòng R401",
+      "room_no": "R401",
+      "area": 50,
+      "bedrooms": 1,
+      "description": "50m2, 01 Bedroom, full furniture, city view, 2 balcony, front side",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 900.0,
+      "promotion_price": null,
+      "daily_price": "None",
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/1nAWFvF6TwtibUawU7eCuCZ6SudSd82y7?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/01.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/02.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/03.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/04.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/05.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/06.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/07.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/08.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/09.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/10.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/11.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/12.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/13.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/14.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        }
+      ]
+    },
+    {
+      "id": "van-phuc-r402",
+      "location_id": "van-phuc",
+      "name": "Phòng R402",
+      "room_no": "R402",
+      "area": 54,
+      "bedrooms": 1,
+      "description": "54m2, 01 Bedroom, full furniture, city view, 2 balcony",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 900.0,
+      "promotion_price": null,
+      "daily_price": "None",
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/1whmtOc9jKrzV8qNMq3U6fDLPGMf7Gpln?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/01.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/02.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/03.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/04.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/05.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/06.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/07.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/08.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/09.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/10.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/11.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/12.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/13.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/14.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/15.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/16.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/17.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/18.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        }
+      ]
+    },
+    {
+      "id": "van-phuc-r403",
+      "location_id": "van-phuc",
+      "name": "Phòng R403",
+      "room_no": "R403",
+      "area": 56,
+      "bedrooms": 1,
+      "description": "56m2, 01 Bedroom, full furniture, city view, 1 balcony, cityview",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 850.0,
+      "promotion_price": null,
+      "daily_price": "None",
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/1__mY1tBBKU07DUh1uAoW9vo205ldYt_b?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/01.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/02.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/03.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/04.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/05.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/06.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/07.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/08.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/09.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/10.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/11.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/12.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/13.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/14.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        }
+      ]
+    },
+    {
+      "id": "van-phuc-r501",
+      "location_id": "van-phuc",
+      "name": "Phòng R501",
+      "room_no": "R501",
+      "area": 50,
+      "bedrooms": 1,
+      "description": "50m2, 01 Bedroom, full furniture, city view, 2 balcony, front side",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 1000.0,
+      "promotion_price": null,
+      "daily_price": "None",
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/1nAWFvF6TwtibUawU7eCuCZ6SudSd82y7?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/01.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/02.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/03.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/04.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/05.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/06.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/07.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/08.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/09.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/10.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/11.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/12.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/13.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/14.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        }
+      ]
+    },
+    {
+      "id": "van-phuc-r502",
+      "location_id": "van-phuc",
+      "name": "Phòng R502",
+      "room_no": "R502",
+      "area": 54,
+      "bedrooms": 1,
+      "description": "54m2, 01 Bedroom, full furniture, city view, 2 balcony",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 1000.0,
+      "promotion_price": 900.0,
+      "daily_price": "None",
+      "availability": "available",
+      "album_url": "https://drive.google.com/drive/folders/1whmtOc9jKrzV8qNMq3U6fDLPGMf7Gpln?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/01.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/02.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/03.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/04.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/05.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/06.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/07.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/08.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/09.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/10.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/11.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/12.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/13.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/14.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/15.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/16.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/17.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/18.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        }
+      ]
+    },
+    {
+      "id": "van-phuc-r503",
+      "location_id": "van-phuc",
+      "name": "Phòng R503",
+      "room_no": "R503",
+      "area": 56,
+      "bedrooms": 1,
+      "description": "56m2, 01 Bedroom, full furniture, city view, 1 balcony, cityview",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 1000.0,
+      "promotion_price": null,
+      "daily_price": "None",
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/1__mY1tBBKU07DUh1uAoW9vo205ldYt_b?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/01.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/02.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/03.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/04.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/05.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/06.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/07.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/08.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/09.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/10.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/11.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/12.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/13.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/14.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        }
+      ]
+    },
+    {
+      "id": "van-phuc-r601",
+      "location_id": "van-phuc",
+      "name": "Phòng R601",
+      "room_no": "R601",
+      "area": 50,
+      "bedrooms": 1,
+      "description": "50m2, 01 Bedroom, full furniture, city view, 2 balcony, front side",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 1000.0,
+      "promotion_price": null,
+      "daily_price": "None",
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/1nAWFvF6TwtibUawU7eCuCZ6SudSd82y7?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/01.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/02.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/03.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/04.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/05.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/06.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/07.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/08.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/09.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/10.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/11.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/12.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/13.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r301-r401-r501-r601/14.jpg",
+          "alt": "Ruby House Van Phuc – R301"
+        }
+      ]
+    },
+    {
+      "id": "van-phuc-r602",
+      "location_id": "van-phuc",
+      "name": "Phòng R602",
+      "room_no": "R602",
+      "area": 54,
+      "bedrooms": 1,
+      "description": "54m2, 01 Bedroom, full furniture, city view, 2 balcony",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 1000.0,
+      "promotion_price": 900.0,
+      "daily_price": "1.000.000",
+      "availability": "available",
+      "album_url": "https://drive.google.com/drive/folders/1whmtOc9jKrzV8qNMq3U6fDLPGMf7Gpln?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/01.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/02.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/03.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/04.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/05.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/06.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/07.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/08.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/09.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/10.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/11.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/12.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/13.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/14.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/15.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/16.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/17.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r302-r402-r502-r602/18.jpg",
+          "alt": "Ruby House Van Phuc – R302"
+        }
+      ]
+    },
+    {
+      "id": "van-phuc-r603",
+      "location_id": "van-phuc",
+      "name": "Phòng R603",
+      "room_no": "R603",
+      "area": 56,
+      "bedrooms": 1,
+      "description": "56m2, 01 Bedroom, full furniture, city view, 1 balcony, cityview",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 1000.0,
+      "promotion_price": null,
+      "daily_price": "None",
+      "availability": "available",
+      "album_url": "https://drive.google.com/drive/folders/1__mY1tBBKU07DUh1uAoW9vo205ldYt_b?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/01.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/02.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/03.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/04.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/05.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/06.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/07.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/08.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/09.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/10.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/11.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/12.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/13.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r303-r403-r503-r603/14.jpg",
+          "alt": "Ruby House Van Phuc – R303"
+        }
+      ]
+    },
+    {
+      "id": "van-phuc-r701",
+      "location_id": "van-phuc",
+      "name": "Phòng R701",
+      "room_no": "R701",
+      "area": 80,
+      "bedrooms": 2,
+      "description": "80m2, 02 Bedroom, full furniture, city view, 2 balcony, 2WC",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 1450.0,
+      "promotion_price": 1400.0,
+      "daily_price": "1.800.000",
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/1yKTiQRPJU5Hkwe_IDNobKhaOdeK3fwSU?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/01.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/02.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/03.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/04.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/05.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/06.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/07.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/08.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/09.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/10.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/11.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/12.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        }
+      ]
+    },
+    {
+      "id": "van-phuc-r702",
+      "location_id": "van-phuc",
+      "name": "Phòng R702",
+      "room_no": "R702",
+      "area": 80,
+      "bedrooms": 2,
+      "description": "80m2, 02 Bedroom, full furniture, city view, 2 balcony, 2WC",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 1550.0,
+      "promotion_price": null,
+      "daily_price": "None",
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/1dKINlA5xOpoRPRqJhXtX0wxjOLH6tH8j?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r702-r802/01.jpg",
+          "alt": "Ruby House Van Phuc – R702"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r702-r802/02.jpg",
+          "alt": "Ruby House Van Phuc – R702"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r702-r802/03.jpg",
+          "alt": "Ruby House Van Phuc – R702"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r702-r802/04.jpg",
+          "alt": "Ruby House Van Phuc – R702"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r702-r802/05.jpg",
+          "alt": "Ruby House Van Phuc – R702"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r702-r802/06.jpg",
+          "alt": "Ruby House Van Phuc – R702"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r702-r802/07.jpg",
+          "alt": "Ruby House Van Phuc – R702"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r702-r802/08.jpg",
+          "alt": "Ruby House Van Phuc – R702"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r702-r802/09.jpg",
+          "alt": "Ruby House Van Phuc – R702"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r702-r802/10.jpg",
+          "alt": "Ruby House Van Phuc – R702"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r702-r802/11.jpg",
+          "alt": "Ruby House Van Phuc – R702"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r702-r802/12.jpg",
+          "alt": "Ruby House Van Phuc – R702"
+        }
+      ]
+    },
+    {
+      "id": "van-phuc-r801",
+      "location_id": "van-phuc",
+      "name": "Phòng R801",
+      "room_no": "R801",
+      "area": 80,
+      "bedrooms": 2,
+      "description": "80m2, 02 Bedroom, full furniture, city view, 2 balcony, 2WC",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 1500.0,
+      "promotion_price": null,
+      "daily_price": "None",
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/1yKTiQRPJU5Hkwe_IDNobKhaOdeK3fwSU?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/01.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/02.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/03.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/04.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/05.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/06.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/07.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/08.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/09.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/10.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/11.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/12.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        }
+      ]
+    },
+    {
+      "id": "van-phuc-r802",
+      "location_id": "van-phuc",
+      "name": "Phòng R802",
+      "room_no": "R802",
+      "area": 80,
+      "bedrooms": 2,
+      "description": "80m2, 02 Bedroom, full furniture, city view, 2 balcony, 2WC",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 1600.0,
+      "promotion_price": null,
+      "daily_price": "None",
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/1dKINlA5xOpoRPRqJhXtX0wxjOLH6tH8j?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r702-r802/01.jpg",
+          "alt": "Ruby House Van Phuc – R702"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r702-r802/02.jpg",
+          "alt": "Ruby House Van Phuc – R702"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r702-r802/03.jpg",
+          "alt": "Ruby House Van Phuc – R702"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r702-r802/04.jpg",
+          "alt": "Ruby House Van Phuc – R702"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r702-r802/05.jpg",
+          "alt": "Ruby House Van Phuc – R702"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r702-r802/06.jpg",
+          "alt": "Ruby House Van Phuc – R702"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r702-r802/07.jpg",
+          "alt": "Ruby House Van Phuc – R702"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r702-r802/08.jpg",
+          "alt": "Ruby House Van Phuc – R702"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r702-r802/09.jpg",
+          "alt": "Ruby House Van Phuc – R702"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r702-r802/10.jpg",
+          "alt": "Ruby House Van Phuc – R702"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r702-r802/11.jpg",
+          "alt": "Ruby House Van Phuc – R702"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r702-r802/12.jpg",
+          "alt": "Ruby House Van Phuc – R702"
+        }
+      ]
+    },
+    {
+      "id": "van-phuc-r901",
+      "location_id": "van-phuc",
+      "name": "Phòng R901",
+      "room_no": "R901",
+      "area": 80,
+      "bedrooms": 2,
+      "description": "80m2, 02 Bedroom, full furniture, city view, 2 balcony, 2WC",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 1300.0,
+      "promotion_price": null,
+      "daily_price": "None",
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/1yKTiQRPJU5Hkwe_IDNobKhaOdeK3fwSU?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/01.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/02.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/03.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/04.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/05.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/06.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/07.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/08.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/09.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/10.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/11.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r701-r801-r901/12.jpg",
+          "alt": "Ruby House Van Phuc – R701"
+        }
+      ]
+    },
+    {
+      "id": "van-phuc-r902",
+      "location_id": "van-phuc",
+      "name": "Phòng R902",
+      "room_no": "R902",
+      "area": 75,
+      "bedrooms": 2,
+      "description": "75m2, 02 Bedroom, full furniture, city view, 2 balcony, 1WC",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 1200.0,
+      "promotion_price": null,
+      "daily_price": "None",
+      "availability": "available",
+      "album_url": "https://drive.google.com/drive/folders/12AV0j4acoGVBL0SzSM7P_TNWUkADj3y-?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r902/01.jpg",
+          "alt": "Ruby House Van Phuc – R902"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r902/02.jpg",
+          "alt": "Ruby House Van Phuc – R902"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r902/03.jpg",
+          "alt": "Ruby House Van Phuc – R902"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r902/04.jpg",
+          "alt": "Ruby House Van Phuc – R902"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r902/05.jpg",
+          "alt": "Ruby House Van Phuc – R902"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r902/06.jpg",
+          "alt": "Ruby House Van Phuc – R902"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r902/07.jpg",
+          "alt": "Ruby House Van Phuc – R902"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r902/08.jpg",
+          "alt": "Ruby House Van Phuc – R902"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r902/09.jpg",
+          "alt": "Ruby House Van Phuc – R902"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r902/10.jpg",
+          "alt": "Ruby House Van Phuc – R902"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r902/11.jpg",
+          "alt": "Ruby House Van Phuc – R902"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r902/12.jpg",
+          "alt": "Ruby House Van Phuc – R902"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/van-phuc/r902/13.jpg",
+          "alt": "Ruby House Van Phuc – R902"
+        }
+      ]
+    },
+    {
+      "id": "lieu-giai-r202",
+      "location_id": "lieu-giai",
+      "name": "Phòng R202",
+      "room_no": "R202",
+      "area": 50,
+      "bedrooms": 1,
+      "description": "50m2, 01 Bedroom, full furniture, city view",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 450.0,
+      "promotion_price": "None",
+      "daily_price": "None",
+      "availability": "occupied",
+      "album_url": null,
+      "published": true,
+      "media": []
+    },
+    {
+      "id": "lieu-giai-r301",
+      "location_id": "lieu-giai",
+      "name": "Phòng R301",
+      "room_no": "R301",
+      "area": 56,
+      "bedrooms": 1,
+      "description": "56m2, 01 Bedroom, full furniture, city view, 1 balcony, front side",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 550.0,
+      "promotion_price": "None",
+      "daily_price": "None",
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/10U-oJE5oyl8uWWG8W6WES3M33_43zA_N?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/01.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/02.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/03.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/04.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/05.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/06.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/07.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/08.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/09.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/10.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/11.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/12.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/13.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/14.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/15.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/16.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        }
+      ]
+    },
+    {
+      "id": "lieu-giai-r302",
+      "location_id": "lieu-giai",
+      "name": "Phòng R302",
+      "room_no": "R302",
+      "area": 56,
+      "bedrooms": 1,
+      "description": "56m2, 01 Bedroom, full furniture, city view, 1 balcony",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 600.0,
+      "promotion_price": 550.0,
+      "daily_price": "None",
+      "availability": "available",
+      "album_url": "https://drive.google.com/drive/folders/1dnhFWjtYuuN6_wVVNqrVd2gTKOxdldCr?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/01.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/02.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/03.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/04.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/05.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/06.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/07.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        }
+      ]
+    },
+    {
+      "id": "lieu-giai-r401",
+      "location_id": "lieu-giai",
+      "name": "Phòng R401",
+      "room_no": "R401",
+      "area": 56,
+      "bedrooms": 1,
+      "description": "56m2, 01 Bedroom, full furniture, city view, 1 balcony, front side",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 550.0,
+      "promotion_price": "None",
+      "daily_price": "None",
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/10U-oJE5oyl8uWWG8W6WES3M33_43zA_N?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/01.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/02.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/03.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/04.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/05.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/06.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/07.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/08.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/09.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/10.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/11.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/12.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/13.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/14.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/15.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/16.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        }
+      ]
+    },
+    {
+      "id": "lieu-giai-r402",
+      "location_id": "lieu-giai",
+      "name": "Phòng R402",
+      "room_no": "R402",
+      "area": 56,
+      "bedrooms": 1,
+      "description": "56m2, 01 Bedroom, full furniture, city view, 1 balcony",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 600.0,
+      "promotion_price": "None",
+      "daily_price": "None",
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/1dnhFWjtYuuN6_wVVNqrVd2gTKOxdldCr?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/01.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/02.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/03.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/04.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/05.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/06.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/07.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        }
+      ]
+    },
+    {
+      "id": "lieu-giai-r501",
+      "location_id": "lieu-giai",
+      "name": "Phòng R501",
+      "room_no": "R501",
+      "area": 56,
+      "bedrooms": 1,
+      "description": "56m2, 01 Bedroom, full furniture, city view, 1 balcony, front side",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 600.0,
+      "promotion_price": "None",
+      "daily_price": "None",
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/10U-oJE5oyl8uWWG8W6WES3M33_43zA_N?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/01.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/02.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/03.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/04.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/05.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/06.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/07.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/08.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/09.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/10.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/11.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/12.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/13.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/14.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/15.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/16.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        }
+      ]
+    },
+    {
+      "id": "lieu-giai-r502",
+      "location_id": "lieu-giai",
+      "name": "Phòng R502",
+      "room_no": "R502",
+      "area": 56,
+      "bedrooms": 1,
+      "description": "56m2, 01 Bedroom, full furniture, city view, 1 balcony",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 600.0,
+      "promotion_price": 550.0,
+      "daily_price": 600000.0,
+      "availability": "available",
+      "album_url": "https://drive.google.com/drive/folders/1dnhFWjtYuuN6_wVVNqrVd2gTKOxdldCr?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/01.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/02.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/03.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/04.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/05.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/06.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/07.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        }
+      ]
+    },
+    {
+      "id": "lieu-giai-r601",
+      "location_id": "lieu-giai",
+      "name": "Phòng R601",
+      "room_no": "R601",
+      "area": 56,
+      "bedrooms": 1,
+      "description": "56m2, 01 Bedroom, full furniture, city view, 1 balcony, front side",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 600.0,
+      "promotion_price": "None",
+      "daily_price": "None",
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/10U-oJE5oyl8uWWG8W6WES3M33_43zA_N?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/01.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/02.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/03.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/04.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/05.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/06.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/07.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/08.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/09.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/10.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/11.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/12.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/13.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/14.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/15.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/16.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        }
+      ]
+    },
+    {
+      "id": "lieu-giai-r602",
+      "location_id": "lieu-giai",
+      "name": "Phòng R602",
+      "room_no": "R602",
+      "area": 56,
+      "bedrooms": 1,
+      "description": "56m2, 01 Bedroom, full furniture, city view, 1 balcony",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 650.0,
+      "promotion_price": 580.0,
+      "daily_price": 700000.0,
+      "availability": "available",
+      "album_url": "https://drive.google.com/drive/folders/1dnhFWjtYuuN6_wVVNqrVd2gTKOxdldCr?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/01.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/02.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/03.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/04.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/05.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/06.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/07.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        }
+      ]
+    },
+    {
+      "id": "lieu-giai-r701",
+      "location_id": "lieu-giai",
+      "name": "Phòng R701",
+      "room_no": "R701",
+      "area": 56,
+      "bedrooms": 1,
+      "description": "56m2, 01 Bedroom, full furniture, city view, 1 balcony, front side",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 650.0,
+      "promotion_price": "None",
+      "daily_price": "None",
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/10U-oJE5oyl8uWWG8W6WES3M33_43zA_N?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/01.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/02.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/03.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/04.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/05.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/06.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/07.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/08.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/09.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/10.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/11.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/12.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/13.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/14.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/15.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/16.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        }
+      ]
+    },
+    {
+      "id": "lieu-giai-r702",
+      "location_id": "lieu-giai",
+      "name": "Phòng R702",
+      "room_no": "R702",
+      "area": 56,
+      "bedrooms": 1,
+      "description": "56m2, 01 Bedroom, full furniture, city view, 1 balcony",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 650.0,
+      "promotion_price": 580.0,
+      "daily_price": 700000.0,
+      "availability": "available",
+      "album_url": "https://drive.google.com/drive/folders/1dnhFWjtYuuN6_wVVNqrVd2gTKOxdldCr?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/01.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/02.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/03.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/04.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/05.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/06.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/07.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        }
+      ]
+    },
+    {
+      "id": "lieu-giai-r801",
+      "location_id": "lieu-giai",
+      "name": "Phòng R801",
+      "room_no": "R801",
+      "area": 56,
+      "bedrooms": 1,
+      "description": "56m2, 01 Bedroom, full furniture, city view, 1 balcony, front side",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 600.0,
+      "promotion_price": 520.0,
+      "daily_price": 700000.0,
+      "availability": "available",
+      "album_url": "https://drive.google.com/drive/folders/10U-oJE5oyl8uWWG8W6WES3M33_43zA_N?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/01.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/02.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/03.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/04.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/05.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/06.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/07.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/08.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/09.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/10.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/11.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/12.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/13.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/14.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/15.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r301-r401-r501-r601-r701-r801/16.jpg",
+          "alt": "Ruby House Lieu Giai – R301"
+        }
+      ]
+    },
+    {
+      "id": "lieu-giai-r802",
+      "location_id": "lieu-giai",
+      "name": "Phòng R802",
+      "room_no": "R802",
+      "area": 56,
+      "bedrooms": 1,
+      "description": "56m2, 01 Bedroom, full furniture, city view, 1 balcony",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 600.0,
+      "promotion_price": 520.0,
+      "daily_price": 700000.0,
+      "availability": "available",
+      "album_url": "https://drive.google.com/drive/folders/1dnhFWjtYuuN6_wVVNqrVd2gTKOxdldCr?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/01.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/02.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/03.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/04.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/05.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/06.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/lieu-giai/r302-r402-r502-r602-r702-r802/07.jpg",
+          "alt": "Ruby House Lieu Giai – R302"
+        }
+      ]
+    },
+    {
+      "id": "phan-ke-binh-r201",
+      "location_id": "phan-ke-binh",
+      "name": "Phòng R201",
+      "room_no": "R201",
+      "area": 45,
+      "bedrooms": 0,
+      "description": "45m2 Studio, full furniture, city view",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 500.0,
+      "promotion_price": 450.0,
+      "daily_price": 600000.0,
+      "availability": "available",
+      "album_url": "https://drive.google.com/drive/folders/1Dbs50_RKUnM5PrWrB5HAzHXvGgjOfbxC?usp=sharing",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r201-r301-r401/01.jpg",
+          "alt": "Ruby House Phan Ke Binh – R201"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r201-r301-r401/02.jpg",
+          "alt": "Ruby House Phan Ke Binh – R201"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r201-r301-r401/03.jpg",
+          "alt": "Ruby House Phan Ke Binh – R201"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r201-r301-r401/04.jpg",
+          "alt": "Ruby House Phan Ke Binh – R201"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r201-r301-r401/05.jpg",
+          "alt": "Ruby House Phan Ke Binh – R201"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r201-r301-r401/06.jpg",
+          "alt": "Ruby House Phan Ke Binh – R201"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r201-r301-r401/07.jpg",
+          "alt": "Ruby House Phan Ke Binh – R201"
+        }
+      ]
+    },
+    {
+      "id": "phan-ke-binh-r202",
+      "location_id": "phan-ke-binh",
+      "name": "Phòng R202",
+      "room_no": "R202",
+      "area": 55,
+      "bedrooms": 1,
+      "description": "55m2, 01 Bedroom, full furniture, city view",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 600.0,
+      "promotion_price": "None",
+      "daily_price": 700000.0,
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/1qglsp3IolOmo5Xkqu6BGAt1zkb1X3LyJ?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/01.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/02.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/03.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/04.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/05.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/06.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/07.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/08.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/09.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/10.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/11.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        }
+      ]
+    },
+    {
+      "id": "phan-ke-binh-r203",
+      "location_id": "phan-ke-binh",
+      "name": "Phòng R203",
+      "room_no": "R203",
+      "area": 50,
+      "bedrooms": 1,
+      "description": "50m2, 01 Bedroom, full furniture, city view",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 600.0,
+      "promotion_price": 520.0,
+      "daily_price": "None",
+      "availability": "available",
+      "album_url": "https://drive.google.com/drive/folders/1Bbk6VEtmavcOFj9DCYYf5fNBvoxBMDQc?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r203-r303-r403/01.jpg",
+          "alt": "Ruby House Phan Ke Binh – R203"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r203-r303-r403/02.jpg",
+          "alt": "Ruby House Phan Ke Binh – R203"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r203-r303-r403/03.jpg",
+          "alt": "Ruby House Phan Ke Binh – R203"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r203-r303-r403/04.jpg",
+          "alt": "Ruby House Phan Ke Binh – R203"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r203-r303-r403/05.jpg",
+          "alt": "Ruby House Phan Ke Binh – R203"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r203-r303-r403/06.jpg",
+          "alt": "Ruby House Phan Ke Binh – R203"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r203-r303-r403/07.jpg",
+          "alt": "Ruby House Phan Ke Binh – R203"
+        }
+      ]
+    },
+    {
+      "id": "phan-ke-binh-r301",
+      "location_id": "phan-ke-binh",
+      "name": "Phòng R301",
+      "room_no": "R301",
+      "area": 45,
+      "bedrooms": 0,
+      "description": "45m2 Studio, full furniture, city view",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 550.0,
+      "promotion_price": 500.0,
+      "daily_price": 600000.0,
+      "availability": "available",
+      "album_url": "https://drive.google.com/drive/folders/1Dbs50_RKUnM5PrWrB5HAzHXvGgjOfbxC?usp=sharing",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r201-r301-r401/01.jpg",
+          "alt": "Ruby House Phan Ke Binh – R201"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r201-r301-r401/02.jpg",
+          "alt": "Ruby House Phan Ke Binh – R201"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r201-r301-r401/03.jpg",
+          "alt": "Ruby House Phan Ke Binh – R201"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r201-r301-r401/04.jpg",
+          "alt": "Ruby House Phan Ke Binh – R201"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r201-r301-r401/05.jpg",
+          "alt": "Ruby House Phan Ke Binh – R201"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r201-r301-r401/06.jpg",
+          "alt": "Ruby House Phan Ke Binh – R201"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r201-r301-r401/07.jpg",
+          "alt": "Ruby House Phan Ke Binh – R201"
+        }
+      ]
+    },
+    {
+      "id": "phan-ke-binh-r302",
+      "location_id": "phan-ke-binh",
+      "name": "Phòng R302",
+      "room_no": "R302",
+      "area": 55,
+      "bedrooms": 1,
+      "description": "55m2, 01 Bedroom, full furniture, city view",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 680.0,
+      "promotion_price": 600.0,
+      "daily_price": 700000.0,
+      "availability": "available",
+      "album_url": "https://drive.google.com/drive/folders/1qglsp3IolOmo5Xkqu6BGAt1zkb1X3LyJ?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/01.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/02.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/03.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/04.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/05.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/06.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/07.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/08.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/09.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/10.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/11.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        }
+      ]
+    },
+    {
+      "id": "phan-ke-binh-r303",
+      "location_id": "phan-ke-binh",
+      "name": "Phòng R303",
+      "room_no": "R303",
+      "area": 50,
+      "bedrooms": 1,
+      "description": "50m2, 01 Bedroom, full furniture, city view",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 650.0,
+      "promotion_price": "None",
+      "daily_price": "None",
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/1Bbk6VEtmavcOFj9DCYYf5fNBvoxBMDQc?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r203-r303-r403/01.jpg",
+          "alt": "Ruby House Phan Ke Binh – R203"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r203-r303-r403/02.jpg",
+          "alt": "Ruby House Phan Ke Binh – R203"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r203-r303-r403/03.jpg",
+          "alt": "Ruby House Phan Ke Binh – R203"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r203-r303-r403/04.jpg",
+          "alt": "Ruby House Phan Ke Binh – R203"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r203-r303-r403/05.jpg",
+          "alt": "Ruby House Phan Ke Binh – R203"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r203-r303-r403/06.jpg",
+          "alt": "Ruby House Phan Ke Binh – R203"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r203-r303-r403/07.jpg",
+          "alt": "Ruby House Phan Ke Binh – R203"
+        }
+      ]
+    },
+    {
+      "id": "phan-ke-binh-r401",
+      "location_id": "phan-ke-binh",
+      "name": "Phòng R401",
+      "room_no": "R401",
+      "area": 45,
+      "bedrooms": 0,
+      "description": "45m2 Studio, full furniture, city view",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 600.0,
+      "promotion_price": 520.0,
+      "daily_price": 600000.0,
+      "availability": "available",
+      "album_url": "https://drive.google.com/drive/folders/1Dbs50_RKUnM5PrWrB5HAzHXvGgjOfbxC?usp=sharing",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r201-r301-r401/01.jpg",
+          "alt": "Ruby House Phan Ke Binh – R201"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r201-r301-r401/02.jpg",
+          "alt": "Ruby House Phan Ke Binh – R201"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r201-r301-r401/03.jpg",
+          "alt": "Ruby House Phan Ke Binh – R201"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r201-r301-r401/04.jpg",
+          "alt": "Ruby House Phan Ke Binh – R201"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r201-r301-r401/05.jpg",
+          "alt": "Ruby House Phan Ke Binh – R201"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r201-r301-r401/06.jpg",
+          "alt": "Ruby House Phan Ke Binh – R201"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r201-r301-r401/07.jpg",
+          "alt": "Ruby House Phan Ke Binh – R201"
+        }
+      ]
+    },
+    {
+      "id": "phan-ke-binh-r402",
+      "location_id": "phan-ke-binh",
+      "name": "Phòng R402",
+      "room_no": "R402",
+      "area": 55,
+      "bedrooms": 1,
+      "description": "55m2, 01 Bedroom, full furniture, city view",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 700.0,
+      "promotion_price": "None",
+      "daily_price": "None",
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/1qglsp3IolOmo5Xkqu6BGAt1zkb1X3LyJ?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/01.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/02.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/03.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/04.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/05.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/06.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/07.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/08.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/09.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/10.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r202-r302-r402/11.jpg",
+          "alt": "Ruby House Phan Ke Binh – R202"
+        }
+      ]
+    },
+    {
+      "id": "phan-ke-binh-r403",
+      "location_id": "phan-ke-binh",
+      "name": "Phòng R403",
+      "room_no": "R403",
+      "area": 50,
+      "bedrooms": 1,
+      "description": "50m2, 01 Bedroom, full furniture, city view",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 600.0,
+      "promotion_price": "None",
+      "daily_price": 700000.0,
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/1Bbk6VEtmavcOFj9DCYYf5fNBvoxBMDQc?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r203-r303-r403/01.jpg",
+          "alt": "Ruby House Phan Ke Binh – R203"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r203-r303-r403/02.jpg",
+          "alt": "Ruby House Phan Ke Binh – R203"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r203-r303-r403/03.jpg",
+          "alt": "Ruby House Phan Ke Binh – R203"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r203-r303-r403/04.jpg",
+          "alt": "Ruby House Phan Ke Binh – R203"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r203-r303-r403/05.jpg",
+          "alt": "Ruby House Phan Ke Binh – R203"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r203-r303-r403/06.jpg",
+          "alt": "Ruby House Phan Ke Binh – R203"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r203-r303-r403/07.jpg",
+          "alt": "Ruby House Phan Ke Binh – R203"
+        }
+      ]
+    },
+    {
+      "id": "phan-ke-binh-r501",
+      "location_id": "phan-ke-binh",
+      "name": "Phòng R501",
+      "room_no": "R501",
+      "area": 75,
+      "bedrooms": 2,
+      "description": "75m2, 02 Bedroom, full furniture, city view, balcony, 2WC",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 1450.0,
+      "promotion_price": 1350.0,
+      "daily_price": 1800000.0,
+      "availability": "available",
+      "album_url": "https://drive.google.com/drive/folders/1qTG4TuRWODUX3ajasX50m2Id9Y7_foJQ?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/01.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/02.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/03.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/04.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/05.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/06.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/07.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/08.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/09.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/10.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/11.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/12.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/13.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/14.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/15.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/16.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/17.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/18.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/19.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/20.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        }
+      ]
+    },
+    {
+      "id": "phan-ke-binh-r502",
+      "location_id": "phan-ke-binh",
+      "name": "Phòng R502",
+      "room_no": "R502",
+      "area": 70,
+      "bedrooms": 2,
+      "description": "70m2, 02 Bedroom, full furniture, city view,  balcony, 2WC",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 1400.0,
+      "promotion_price": 1300.0,
+      "daily_price": 1800000.0,
+      "availability": "available",
+      "album_url": "https://drive.google.com/drive/folders/1rLk2Guh9eUT6_ooO5WHvCCDQMlso_hVp?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/01.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/02.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/03.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/04.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/05.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/06.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/07.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/08.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/09.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/10.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/11.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/12.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/13.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/14.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/15.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/16.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/17.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/18.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/19.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        }
+      ]
+    },
+    {
+      "id": "phan-ke-binh-r601",
+      "location_id": "phan-ke-binh",
+      "name": "Phòng R601",
+      "room_no": "R601",
+      "area": 75,
+      "bedrooms": 2,
+      "description": "75m2, 02 Bedroom, full furniture, city view, balcony, 2WC",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 1450.0,
+      "promotion_price": 1350.0,
+      "daily_price": 1800000.0,
+      "availability": "available",
+      "album_url": "https://drive.google.com/drive/folders/1qTG4TuRWODUX3ajasX50m2Id9Y7_foJQ?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/01.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/02.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/03.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/04.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/05.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/06.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/07.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/08.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/09.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/10.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/11.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/12.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/13.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/14.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/15.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/16.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/17.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/18.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/19.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/20.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        }
+      ]
+    },
+    {
+      "id": "phan-ke-binh-r602",
+      "location_id": "phan-ke-binh",
+      "name": "Phòng R602",
+      "room_no": "R602",
+      "area": 70,
+      "bedrooms": 2,
+      "description": "70m2, 02 Bedroom, full furniture, city view,  balcony, 2WC",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 1500.0,
+      "promotion_price": "None",
+      "daily_price": "None",
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/1rLk2Guh9eUT6_ooO5WHvCCDQMlso_hVp?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/01.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/02.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/03.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/04.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/05.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/06.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/07.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/08.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/09.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/10.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/11.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/12.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/13.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/14.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/15.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/16.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/17.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/18.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/19.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        }
+      ]
+    },
+    {
+      "id": "phan-ke-binh-r701",
+      "location_id": "phan-ke-binh",
+      "name": "Phòng R701",
+      "room_no": "R701",
+      "area": 80,
+      "bedrooms": 2,
+      "description": "80m2, 02 Bedroom, full furniture, city view, balcony, 2WC",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 1500.0,
+      "promotion_price": "None",
+      "daily_price": "None",
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/1qTG4TuRWODUX3ajasX50m2Id9Y7_foJQ?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/01.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/02.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/03.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/04.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/05.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/06.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/07.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/08.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/09.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/10.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/11.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/12.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/13.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/14.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/15.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/16.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/17.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/18.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/19.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r501-r601-r701/20.jpg",
+          "alt": "Ruby House Phan Ke Binh – R501"
+        }
+      ]
+    },
+    {
+      "id": "phan-ke-binh-r702",
+      "location_id": "phan-ke-binh",
+      "name": "Phòng R702",
+      "room_no": "R702",
+      "area": 75,
+      "bedrooms": 2,
+      "description": "75m2, 02 Bedroom, full furniture, city view,  balcony, 2WC",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 1500.0,
+      "promotion_price": "None",
+      "daily_price": "None",
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/1rLk2Guh9eUT6_ooO5WHvCCDQMlso_hVp?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/01.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/02.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/03.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/04.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/05.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/06.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/07.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/08.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/09.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/10.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/11.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/12.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/13.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/14.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/15.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/16.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/17.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/18.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r502-r602-r702/19.jpg",
+          "alt": "Ruby House Phan Ke Binh – R502"
+        }
+      ]
+    },
+    {
+      "id": "phan-ke-binh-r801",
+      "location_id": "phan-ke-binh",
+      "name": "Phòng R801",
+      "room_no": "R801",
+      "area": 52,
+      "bedrooms": 1,
+      "description": "52m2, 01 Bedroom, full furniture, city view,  balcony, 1WC",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 1000.0,
+      "promotion_price": "None",
+      "daily_price": 1000000.0,
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/1HMlMQaneLN71jr8DbCFuy7mfGst62Er0?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/01.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/02.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/03.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/04.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/05.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/06.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/07.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/08.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/09.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/10.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/11.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/12.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/13.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/14.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/15.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        }
+      ]
+    },
+    {
+      "id": "phan-ke-binh-r802",
+      "location_id": "phan-ke-binh",
+      "name": "Phòng R802",
+      "room_no": "R802",
+      "area": 56,
+      "bedrooms": 1,
+      "description": "56m2, 01 Bedroom, full furniture, city view,  balcony, 1WC",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 1000.0,
+      "promotion_price": "None",
+      "daily_price": "None",
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/1HMlMQaneLN71jr8DbCFuy7mfGst62Er0?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/01.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/02.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/03.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/04.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/05.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/06.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/07.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/08.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/09.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/10.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/11.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/12.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/13.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/14.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/15.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        }
+      ]
+    },
+    {
+      "id": "phan-ke-binh-r803",
+      "location_id": "phan-ke-binh",
+      "name": "Phòng R803",
+      "room_no": "R803",
+      "area": 50,
+      "bedrooms": 1,
+      "description": "50m2, 01 Bedroom, full furniture, city view,  balcony, 1WC",
+      "amenities": [
+        "Wi-Fi tốc độ cao",
+        "Truyền hình cáp quốc tế và Nhật Bản",
+        "Dọn phòng 3 lần/tuần",
+        "Máy giặt và máy sấy riêng",
+        "Lễ tân và an ninh 24/7",
+        "Nước nóng trung tâm"
+      ],
+      "monthly_price": 1000.0,
+      "promotion_price": "None",
+      "daily_price": 1000000.0,
+      "availability": "occupied",
+      "album_url": "https://drive.google.com/drive/folders/1HMlMQaneLN71jr8DbCFuy7mfGst62Er0?usp=drive_link",
+      "published": true,
+      "media": [
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/01.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/02.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/03.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/04.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/05.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/06.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/07.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/08.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/09.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/10.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/11.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/12.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/13.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/14.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        },
+        {
+          "kind": "image",
+          "url": "/uploads/catalog/phan-ke-binh/r801-r802-r803/15.jpg",
+          "alt": "Ruby House Phan Ke Binh – R801"
+        }
+      ]
+    }
+  ]
+}
