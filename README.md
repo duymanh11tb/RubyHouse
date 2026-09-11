@@ -37,6 +37,17 @@ Database và media tải lên được giữ trong Docker volumes nên không m�
 
 Proxy tên miền HTTPS vào `http://127.0.0.1:3001`. Tăng giới hạn upload vì website chấp nhận video tối đa 500 MB:
 
+Cấu hình dành sẵn cho tên miền chính thức nằm tại `deploy/nginx-rubyhousing.conf`. Sau khi DNS trỏ về VPS, kích hoạt bằng:
+
+```bash
+cp deploy/nginx-rubyhousing.conf /etc/nginx/sites-available/rubyhouse
+ln -sf /etc/nginx/sites-available/rubyhouse /etc/nginx/sites-enabled/rubyhouse
+rm -f /etc/nginx/sites-enabled/default
+nginx -t
+systemctl reload nginx
+certbot --nginx -d rubyhousing.vn -d www.rubyhousing.vn
+```
+
 ```nginx
 server {
     server_name rubyhouse.example.com;
