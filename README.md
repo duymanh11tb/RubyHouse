@@ -29,7 +29,7 @@ docker compose ps
 curl http://127.0.0.1:3001/api/health
 ```
 
-Database và media tải lên được giữ trong Docker volumes nên không mất khi build/deploy lại. Các bảng và dữ liệu danh mục ban đầu được tự động tạo ở lần chạy đầu tiên.
+Database và media tải lên được giữ trong Docker volumes nên không mất khi build/deploy lại. Ảnh danh mục được gắn trực tiếp từ `uploads/catalog`; các bảng và dữ liệu danh mục ban đầu được tự động tạo ở lần chạy đầu tiên.
 
 ### Nginx
 
