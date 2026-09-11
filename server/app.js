@@ -21,7 +21,7 @@ export async function createApp(db,{password,uploadDir='./uploads',production=fa
   const hashPassword=value=>{const salt=randomBytes(16).toString('hex');return `${salt}:${scryptSync(value,salt,64).toString('hex')}`;};
   const verifyPassword=(value,stored)=>{try{const [salt,expectedHex]=stored.split(':');const actual=scryptSync(value,salt,64),expected=Buffer.from(expectedHex,'hex');return actual.length===expected.length&&timingSafeEqual(actual,expected);}catch{return false;}};
   if(!(await db.query("SELECT id FROM admin_credentials WHERE id='primary'")).rows.length)await db.query("INSERT INTO admin_credentials (id,password_hash) VALUES ('primary',$1)",[hashPassword(password)]);
-  app.use(helmet({contentSecurityPolicy:{directives:{defaultSrc:["'self'"],scriptSrc:["'self'"],styleSrc:["'self'","'unsafe-inline'",'https://fonts.googleapis.com'],fontSrc:["'self'",'https://fonts.gstatic.com'],imgSrc:["'self'",'https:','blob:'],mediaSrc:["'self'",'https:','blob:'],connectSrc:["'self'"],upgradeInsecureRequests:production?[]:null}}}));
+  app.use(helmet({contentSecurityPolicy:{directives:{defaultSrc:["'self'"],scriptSrc:["'self'"],styleSrc:["'self'","'unsafe-inline'",'https://fonts.googleapis.com'],fontSrc:["'self'",'https://fonts.gstatic.com'],imgSrc:["'self'",'https:','blob:'],mediaSrc:["'self'",'https:','blob:'],connectSrc:["'self'"],upgradeInsecureRequests:null}}}));
   app.use(express.json({limit:'1mb'}));
   app.use('/api',(_req,res,next)=>{res.set('Cache-Control','no-store');next();});
   app.use('/uploads',express.static(path.resolve(uploadDir),{dotfiles:'deny',maxAge:'1d'}));
