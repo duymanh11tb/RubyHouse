@@ -23,6 +23,8 @@ cp .env.example .env
 
 Sửa `.env`, thay `POSTGRES_PASSWORD` và `ADMIN_PASSWORD` bằng hai mật khẩu mạnh, khác nhau. Không đưa `.env` lên GitHub.
 
+Để nhận email khi khách đặt lịch, bật xác minh 2 bước cho Gmail, tạo **App Password** và điền `SMTP_USER`, `SMTP_PASS`, `MAIL_TO` trong `.env`. `SMTP_PASS` không phải mật khẩu đăng nhập Gmail thông thường. Có thể nhập nhiều email nhận trong `MAIL_TO`, phân tách bằng dấu phẩy.
+
 ```bash
 docker compose up -d --build
 docker compose ps

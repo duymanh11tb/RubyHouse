@@ -7,6 +7,7 @@ import { z } from 'zod';
 import { randomUUID, randomBytes, timingSafeEqual, scryptSync } from 'node:crypto';
 import { mkdir, rename, unlink } from 'node:fs/promises';
 import path from 'node:path';
+import nodemailer from 'nodemailer';
 
 const safeUrl=z.string().max(2000).refine(s=>/^\/uploads\/(?:[a-z0-9-]+\/)*[a-z0-9-]+\.(jpg|jpeg|png|webp|gif|mp4|webm)$/i.test(s)||(()=>{try{return new URL(s).protocol==='https:';}catch{return false;}})(),'URL phải là HTTPS hoặc tệp đã tải lên.');
 const optionalPrice=z.union([z.literal(''),z.string().trim().max(50),z.number()]).nullable().optional();
@@ -16,6 +17,8 @@ const inquirySchema=z.object({name:z.string().trim().min(2).max(100),phone:z.str
 
 export async function createApp(db,{password,uploadDir='./uploads',production=false}={}){
   const app=express();const sessions=new Map();
+  const mailTo=(process.env.MAIL_TO||'').split(',').map(value=>value.trim()).filter(Boolean);
+  const mailer=process.env.SMTP_USER&&process.env.SMTP_PASS&&mailTo.length?nodemailer.createTransport({host:process.env.SMTP_HOST||'smtp.gmail.com',port:Number(process.env.SMTP_PORT||465),secure:process.env.SMTP_SECURE!=='false',auth:{user:process.env.SMTP_USER,pass:process.env.SMTP_PASS}}):null;
   await mkdir(uploadDir,{recursive:true});
   await db.query('CREATE TABLE IF NOT EXISTS admin_credentials (id TEXT PRIMARY KEY, password_hash TEXT NOT NULL, updated_at TIMESTAMPTZ NOT NULL DEFAULT NOW())');
   const hashPassword=value=>{const salt=randomBytes(16).toString('hex');return `${salt}:${scryptSync(value,salt,64).toString('hex')}`;};
@@ -92,6 +95,12 @@ export async function createApp(db,{password,uploadDir='./uploads',production=fa
     if(!(await db.query('SELECT id FROM locations WHERE id=$1',[data.location_id])).rows.length)return res.status(400).json({error:'Cơ sở không hợp lệ.'});
     if(data.room_id&&!(await db.query("SELECT id FROM rooms WHERE id=$1 AND location_id=$2 AND published=true AND availability='available'",[data.room_id,data.location_id])).rows.length)return res.status(400).json({error:'Phòng đã được thuê, không còn hiển thị hoặc không thuộc cơ sở đã chọn.'});
     const id=randomUUID();await db.query('INSERT INTO inquiries (id,name,phone,email,location_id,room_id,visit_date,method,note) VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9)',[id,data.name,data.phone,data.email,data.location_id,data.room_id||null,data.visit_date||null,data.method,data.note]);
+    if(mailer){
+      const location=(await db.query('SELECT name FROM locations WHERE id=$1',[data.location_id])).rows[0]?.name||data.location_id;
+      const room=data.room_id?(await db.query('SELECT name FROM rooms WHERE id=$1',[data.room_id])).rows[0]?.name:'Cần tư vấn căn hộ';
+      const text=[`Có yêu cầu xem phòng mới #${id.slice(0,8).toUpperCase()}`,`Khách hàng: ${data.name}`,`Điện thoại: ${data.phone}`,`Email: ${data.email||'Không cung cấp'}`,`Cơ sở: ${location}`,`Phòng: ${room}`,`Ngày dự kiến: ${data.visit_date||'Chưa chọn'}`,`Hình thức: ${data.method}`,`Lời nhắn: ${data.note||'Không có'}`].join('\n');
+      mailer.sendMail({from:`RubyHouse Website <${process.env.SMTP_USER}>`,to:mailTo,replyTo:data.email||undefined,subject:`[RubyHouse] Yêu cầu xem phòng mới - ${data.name}`,text}).catch(error=>console.error('Không gửi được email thông báo:',error.message));
+    }
     res.status(201).json({id});
   });
   app.get('/api/admin/inquiries',async(_req,res)=>res.json((await db.query(`SELECT i.*,l.name AS location_name,r.name AS room_name FROM inquiries i JOIN locations l ON l.id=i.location_id LEFT JOIN rooms r ON r.id=i.room_id ORDER BY i.created_at DESC LIMIT 500`)).rows));
