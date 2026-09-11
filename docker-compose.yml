@@ -35,6 +35,7 @@ services:
       SMTP_SECURE: ${SMTP_SECURE:-true}
       SMTP_USER: ${SMTP_USER}
       SMTP_PASS: ${SMTP_PASS}
+      MAIL_FROM_NAME: ${MAIL_FROM_NAME:-RubyHouse Website}
       MAIL_TO: ${MAIL_TO}
     ports:
       - "127.0.0.1:3001:3001"
