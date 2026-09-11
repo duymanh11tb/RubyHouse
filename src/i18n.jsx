@@ -26,6 +26,20 @@ Object.assign(copy,{
   'Không tìm thấy trang':['Page not found','ページが見つかりません'],'Trang hoặc căn hộ này hiện không có trên website.':['This page or apartment is not currently available on the website.','このページまたはお部屋は現在掲載されていません。'],'Đang chuẩn bị không gian của bạn…':['Preparing your space…','お部屋を準備しています…'],'Thử lại':['Try again','再試行'],'Đang mở quản trị…':['Opening admin…','管理画面を開いています…']
 });
 
+Object.assign(copy,{
+  'Không kết nối được máy chủ. Vui lòng thử lại.':['Cannot connect to the server. Please try again.','サーバーに接続できません。もう一度お試しください。'],
+  'Yêu cầu chưa hoàn tất. Vui lòng thử lại.':['The request could not be completed. Please try again.','処理を完了できませんでした。もう一度お試しください。'],
+  'Ruby House — trang chủ':['RubyHouse — home','RubyHouse — ホーム'],'Hình ảnh đang được cập nhật':['Images are being updated','写真を準備中です'],'Căn hộ Ruby House':['RubyHouse apartment','RubyHouseのお部屋'],'Không gian Ruby House':['RubyHouse interior','RubyHouseの室内'],
+  'Điều hướng chính':['Main navigation','メインナビゲーション'],'Đóng menu':['Close menu','メニューを閉じる'],'Mở menu':['Open menu','メニューを開く'],'Ba Đình, Hà Nội':['Ba Dinh, Hanoi','ハノイ・バーディン区'],
+  'Căn hộ tiện nghi, dịch vụ đáng tin cậy.':['Comfortable apartments, dependable service.','快適な住まいと信頼できるサービス。'],'CÔNG TY TNHH RUBY HOLDING · SINCE 2019':['RUBY HOLDING CO., LTD. · SINCE 2019','RUBY HOLDING CO., LTD.・2019年創業'],'BA ĐÌNH · HÀ NỘI · VIỆT NAM':['BA DINH · HANOI · VIETNAM','バーディン・ハノイ・ベトナム'],'All rights reserved.':['All rights reserved.','無断転載を禁じます。'],
+  'Your trusted home away from home.':['Your trusted home away from home.','信頼できる、もうひとつの我が家。'],'Your trusted home':['Your trusted home','信頼できる'],'away from home.':['away from home.','もうひとつの我が家。'],'YOUR HOME AWAY FROM HOME':['YOUR HOME AWAY FROM HOME','もうひとつの我が家'],'RUBY HOUSE COLLECTION':['RUBYHOUSE COLLECTION','RUBYHOUSE コレクション'],
+  'Phân trang':['Pagination','ページ切り替え'],'← Trước':['← Previous','← 前へ'],'Sau →':['Next →','次へ →'],'Lọc theo địa điểm':['Filter by location','拠点で絞り込む'],'Danh sách căn hộ đang được cập nhật. Vui lòng liên hệ để được tư vấn.':['The apartment list is being updated. Please contact us for assistance.','お部屋情報を更新中です。詳しくはお問い合わせください。'],
+  'RUBY HOUSE · CƠ SỞ ':['RUBYHOUSE · LOCATION ','RUBYHOUSE・拠点'],'Căn hộ còn trống':['Available apartment','空室のお部屋'],'Thư viện ảnh căn hộ':['Apartment photo gallery','お部屋の写真ギャラリー'],'Xem ảnh ':['View photo ','写真を見る '],
+  'Số 1–3, ngõ 1 Vạn Phúc, Ba Đình, Hà Nội':['1–3, Alley 1 Van Phuc, Ba Dinh, Hanoi','ハノイ市バーディン区ヴァンフック1通り1–3番地'],'Số 13, ngõ 19 Liễu Giai, Ba Đình, Hà Nội':['13, Alley 19 Lieu Giai, Ba Dinh, Hanoi','ハノイ市バーディン区リエウザイ19通り13番地'],'Số 12, ngõ 35 Phan Kế Bính, Ba Đình, Hà Nội':['12, Alley 35 Phan Ke Binh, Ba Dinh, Hanoi','ハノイ市バーディン区ファンケビン35通り12番地'],
+  'Trụ sở chính':['Main location','本店'],'loại căn hộ':['apartment types','部屋タイプ'],'Xem căn hộ':['View apartments','お部屋を見る']
+  ,'cityview':['city view','シティビュー']
+});
+
 const LanguageContext=createContext({lang:'vi',setLang:()=>{}});
 const langs=['vi','en','ja'];
 function detected(){const saved=localStorage.getItem('ruby_language');if(langs.includes(saved))return saved;const code=(navigator.languages?.[0]||navigator.language||'vi').toLowerCase();return code.startsWith('ja')?'ja':code.startsWith('en')?'en':'vi';}
