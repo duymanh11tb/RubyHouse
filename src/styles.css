@@ -33,5 +33,6 @@
 .upload-zone.compact{min-height:120px;margin-top:20px}
 .social-links{display:flex;flex-wrap:wrap;gap:14px;margin-top:18px}
 .social-links a{text-decoration:underline;text-underline-offset:4px}
-.hero-copy h1 em{white-space:nowrap}
+.hero-copy h1{font-size:clamp(38px,4.6vw,64px)}
+.hero-copy h1 em{color:#b5001b;font-size:1em;font-style:normal;white-space:nowrap}
 @media(max-width:700px){.location-setting{grid-template-columns:1fr}.location-setting textarea{grid-column:auto}.settings-editor>.form-grid,.settings-editor>h3,.settings-editor>.location-setting,.settings-editor>.upload-zone,.settings-editor>.editor-actions{margin-left:16px;margin-right:16px}}
