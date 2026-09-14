@@ -18,7 +18,7 @@ Yêu cầu VPS đã cài Docker Engine, Docker Compose và Nginx.
 ```bash
 git clone https://github.com/duymanh11tb/RubyHouse.git
 cd RubyHouse
-cp .env.example .env
+touch .env
 ```
 
 Sửa `.env`, thay `POSTGRES_PASSWORD` và `ADMIN_PASSWORD` bằng hai mật khẩu mạnh, khác nhau. Không đưa `.env` lên GitHub.

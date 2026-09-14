@@ -15,10 +15,10 @@ Tìm hoặc thêm các dòng sau:
 SMTP_HOST=smtp.gmail.com
 SMTP_PORT=465
 SMTP_SECURE=true
-SMTP_USER=gm.rubyhousing@gmail.com
+SMTP_USER=your-email@gmail.com
 SMTP_PASS=MAT_KHAU_UNG_DUNG_GOOGLE_16_KY_TU
 MAIL_FROM_NAME=RubyHouse Website
-MAIL_TO=gm.rubyhousing@gmail.com,rubyhouse2019@gmail.com
+MAIL_TO=recipient@example.com
 ```
 
 - `SMTP_USER`: Gmail dùng để gửi thư.
