@@ -12,6 +12,7 @@ import nodemailer from 'nodemailer';
 const safeUrl=z.string().max(2000).refine(s=>/^\/uploads\/(?:[a-z0-9-]+\/)*[a-z0-9-]+\.(jpg|jpeg|png|webp|gif|mp4|webm)$/i.test(s)||(()=>{try{return new URL(s).protocol==='https:';}catch{return false;}})(),'URL phải là HTTPS hoặc tệp đã tải lên.');
 const optionalPrice=z.union([z.literal(''),z.string().trim().max(50),z.number()]).nullable().optional();
 const roomSchema=z.object({location_id:z.string().min(1),name:z.string().trim().min(2).max(120),area:z.coerce.number().int().min(1).max(2000),bedrooms:z.coerce.number().int().min(0).max(20),description:z.string().trim().min(10).max(5000),amenities:z.array(z.string().trim().min(1).max(100)).max(30),monthly_price:optionalPrice,promotion_price:optionalPrice,daily_price:optionalPrice,availability:z.enum(['available','occupied']).default('occupied'),published:z.boolean(),media:z.array(z.object({kind:z.enum(['image','video']),url:safeUrl,alt:z.string().max(200).default('')})).max(50)});
+const bannerSchema=z.array(z.object({url:safeUrl,alt:z.string().max(200).default('')})).min(1,'Banner cần ít nhất một ảnh.').max(12);
 const today=()=>new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Ho_Chi_Minh',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
 const inquirySchema=z.object({name:z.string().trim().min(2).max(100),phone:z.string().trim().regex(/^[+\d ()-]{8,25}$/),email:z.union([z.literal(''),z.string().email().max(200)]).default(''),location_id:z.string().min(1),room_id:z.string().nullable().optional(),visit_date:z.string().nullable().optional().refine(s=>!s||(/^\d{4}-\d{2}-\d{2}$/.test(s)&&!Number.isNaN(Date.parse(s))&&new Date(s).toISOString().slice(0,10)===s&&s>=today()),'Ngày xem phòng không hợp lệ hoặc đã qua.'),method:z.enum(['Trực tiếp','Video call']),note:z.string().max(2000).default('')});
 
@@ -60,8 +61,8 @@ export async function createApp(db,{password,uploadDir='./uploads',production=fa
     res.clearCookie('ruby_session',{path:'/api/admin'}).json({ok:true});
   });
   async function catalog(admin=false){
-    const [locations,rooms,media]=await Promise.all([db.query('SELECT * FROM locations ORDER BY position'),db.query(`SELECT * FROM rooms ${admin?'':'WHERE published = true'} ORDER BY created_at,id`),db.query('SELECT * FROM media ORDER BY position,id')]);
-    return {locations:locations.rows,rooms:rooms.rows.map(r=>({...r,media:media.rows.filter(m=>m.room_id===r.id)}))};
+    const [locations,rooms,media,banners]=await Promise.all([db.query('SELECT * FROM locations ORDER BY position'),db.query(`SELECT * FROM rooms ${admin?'':'WHERE published = true'} ORDER BY created_at,id`),db.query('SELECT * FROM media ORDER BY position,id'),db.query('SELECT * FROM banner_media ORDER BY position,id')]);
+    return {locations:locations.rows,rooms:rooms.rows.map(r=>({...r,media:media.rows.filter(m=>m.room_id===r.id)})),banners:banners.rows};
   }
   app.get('/api/catalog',async(_req,res)=>res.json(await catalog()));
   app.get('/api/admin/catalog',async(_req,res)=>res.json(await catalog(true)));
@@ -107,6 +108,14 @@ export async function createApp(db,{password,uploadDir='./uploads',production=fa
     res.status(201).json({id});
   });
   app.get('/api/admin/inquiries',async(_req,res)=>res.json((await db.query(`SELECT i.*,l.name AS location_name,r.name AS room_name FROM inquiries i JOIN locations l ON l.id=i.location_id LEFT JOIN rooms r ON r.id=i.room_id ORDER BY i.created_at DESC LIMIT 500`)).rows));
+  app.put('/api/admin/banners',async(req,res)=>{
+    const banners=bannerSchema.parse(req.body);
+    await db.transaction(async tx=>{
+      await tx.query('DELETE FROM banner_media');
+      for(const [position,banner] of banners.entries())await tx.query('INSERT INTO banner_media (id,url,alt,position) VALUES ($1,$2,$3,$4)',[randomUUID(),banner.url,banner.alt,position]);
+    });
+    res.json({ok:true});
+  });
   app.delete('/api/admin/inquiries/:id',async(req,res)=>{
     const result=await db.query('DELETE FROM inquiries WHERE id=$1 RETURNING id',[req.params.id]);
     if(!result.rows.length)return res.status(404).json({error:'Không tìm thấy yêu cầu.'});

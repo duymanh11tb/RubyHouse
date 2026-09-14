@@ -37,6 +37,9 @@ export async function initialize(db){
     id TEXT PRIMARY KEY, room_id TEXT NOT NULL REFERENCES rooms(id) ON DELETE CASCADE,
     kind TEXT NOT NULL CHECK(kind IN ('image','video')), url TEXT NOT NULL, alt TEXT NOT NULL DEFAULT '', position INTEGER NOT NULL
   )`);
+  await db.query(`CREATE TABLE IF NOT EXISTS banner_media (
+    id TEXT PRIMARY KEY, url TEXT NOT NULL, alt TEXT NOT NULL DEFAULT '', position INTEGER NOT NULL
+  )`);
   await db.query(`CREATE TABLE IF NOT EXISTS inquiries (
     id TEXT PRIMARY KEY, name TEXT NOT NULL, phone TEXT NOT NULL, email TEXT NOT NULL DEFAULT '',
     location_id TEXT NOT NULL REFERENCES locations(id), room_id TEXT REFERENCES rooms(id) ON DELETE SET NULL,
@@ -93,5 +96,9 @@ export async function initialize(db){
       }
       await tx.query("INSERT INTO app_migrations VALUES ('pricing-status-2026')");
     });
+  }
+  const banners=await db.query('SELECT id FROM banner_media LIMIT 1');
+  if(!banners.rows.length){
+    await db.query("INSERT INTO banner_media (id,url,alt,position) SELECT 'initial-banner',url,alt,0 FROM media WHERE kind='image' ORDER BY position,id LIMIT 1");
   }
 }
