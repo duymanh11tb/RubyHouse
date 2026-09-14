@@ -43,7 +43,7 @@ export async function createApp(db,{password,uploadDir='./uploads',production=fa
     if(!stored||!verifyPassword(input,stored))return res.status(401).json({error:'Mật khẩu không đúng.'});
     for(const [token,expiry] of sessions)if(expiry<Date.now())sessions.delete(token);
     const token=randomBytes(32).toString('hex');sessions.set(token,Date.now()+8*60*60*1000);
-    res.cookie('ruby_session',token,{httpOnly:true,sameSite:'strict',secure:production,maxAge:8*60*60*1000,path:'/api/admin'});res.json({ok:true});
+    res.cookie('ruby_session',token,{httpOnly:true,sameSite:'strict',secure:false,maxAge:8*60*60*1000,path:'/api/admin'});res.json({ok:true});
   });
   app.use('/api/admin',protect);
   app.get('/api/admin/session',(_req,res)=>res.json({ok:true}));
