@@ -40,6 +40,10 @@ export async function initialize(db){
   await db.query(`CREATE TABLE IF NOT EXISTS banner_media (
     id TEXT PRIMARY KEY, url TEXT NOT NULL, alt TEXT NOT NULL DEFAULT '', position INTEGER NOT NULL
   )`);
+  await db.query(`CREATE TABLE IF NOT EXISTS site_settings (
+    id TEXT PRIMARY KEY, value JSONB NOT NULL
+  )`);
+  await db.query(`INSERT INTO site_settings (id,value) VALUES ('main',$1) ON CONFLICT (id) DO NOTHING`,[JSON.stringify({phone_primary:'0879 232 999',phone_secondary:'0879 233 999',email_contact:'rubyhouse2019@gmail.com',email_notifications:'rubyhouse2019@gmail.com',hero_title:'Your trusted home',hero_accent:'AWAY FROM HOME.',hero_description:'Căn hộ đầy đủ nội thất, tiện nghi giữa lòng Hà Nội — luôn có RubyHouse đồng hành trong suốt thời gian bạn lưu trú.',hero_caption:'Sống thư thái, ở trọn vẹn.',about_title:'Chỗ ở đáng tin cậy cho chuyên gia quốc tế tại Hà Nội.',about_text_1:'RubyHouse được vận hành bởi Công ty TNHH Ruby Holding, bắt đầu hoạt động từ năm 2019 tại Ba Đình — khu vực tập trung nhiều văn phòng đại diện, đại sứ quán và cộng đồng chuyên gia nước ngoài.',about_text_2:'Từ 3 cơ sở Vạn Phúc, Liễu Giai và Phan Kế Bính, chúng tôi cung cấp căn hộ Studio, 1 và 2 phòng ngủ cho cả khách thuê dài hạn và khách công tác ngắn ngày.',amenities_title:'Bạn tận hưởng. Chúng tôi chăm lo.',amenities_description:'Một căn hộ đầy đủ tiện nghi cùng đội ngũ hỗ trợ thực sự trong suốt thời gian lưu trú.',banner_interval:5,logo_url:'/rubyhouse-logo.png',facebook_url:'',zalo_url:'',youtube_url:''})]);
   await db.query(`CREATE TABLE IF NOT EXISTS inquiries (
     id TEXT PRIMARY KEY, name TEXT NOT NULL, phone TEXT NOT NULL, email TEXT NOT NULL DEFAULT '',
     location_id TEXT NOT NULL REFERENCES locations(id), room_id TEXT REFERENCES rooms(id) ON DELETE SET NULL,

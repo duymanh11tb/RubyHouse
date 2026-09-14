@@ -13,13 +13,14 @@ const safeUrl=z.string().max(2000).refine(s=>/^\/uploads\/(?:[a-z0-9-]+\/)*[a-z0
 const optionalPrice=z.union([z.literal(''),z.string().trim().max(50),z.number()]).nullable().optional();
 const roomSchema=z.object({location_id:z.string().min(1),name:z.string().trim().min(2).max(120),area:z.coerce.number().int().min(1).max(2000),bedrooms:z.coerce.number().int().min(0).max(20),description:z.string().trim().min(10).max(5000),amenities:z.array(z.string().trim().min(1).max(100)).max(30),monthly_price:optionalPrice,promotion_price:optionalPrice,daily_price:optionalPrice,availability:z.enum(['available','occupied']).default('occupied'),published:z.boolean(),media:z.array(z.object({kind:z.enum(['image','video']),url:safeUrl,alt:z.string().max(200).default('')})).max(50)});
 const bannerSchema=z.array(z.object({url:safeUrl,alt:z.string().max(200).default('')})).min(1,'Banner cần ít nhất một ảnh.').max(12);
+const settingsSchema=z.record(z.string(),z.union([z.string().max(5000),z.number().min(2).max(60)]));
 const today=()=>new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Ho_Chi_Minh',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
 const inquirySchema=z.object({name:z.string().trim().min(2).max(100),phone:z.string().trim().regex(/^[+\d ()-]{8,25}$/),email:z.union([z.literal(''),z.string().email().max(200)]).default(''),location_id:z.string().min(1),room_id:z.string().nullable().optional(),visit_date:z.string().nullable().optional().refine(s=>!s||(/^\d{4}-\d{2}-\d{2}$/.test(s)&&!Number.isNaN(Date.parse(s))&&new Date(s).toISOString().slice(0,10)===s&&s>=today()),'Ngày xem phòng không hợp lệ hoặc đã qua.'),method:z.enum(['Trực tiếp','Video call']),note:z.string().max(2000).default('')});
 
 export async function createApp(db,{password,uploadDir='./uploads',production=false}={}){
   const app=express();const sessions=new Map();
   const mailTo=(process.env.MAIL_TO||'').split(',').map(value=>value.trim()).filter(Boolean);
-  const mailer=process.env.SMTP_USER&&process.env.SMTP_PASS&&mailTo.length?nodemailer.createTransport({host:process.env.SMTP_HOST||'smtp.gmail.com',port:Number(process.env.SMTP_PORT||465),secure:process.env.SMTP_SECURE!=='false',auth:{user:process.env.SMTP_USER,pass:process.env.SMTP_PASS}}):null;
+  const mailer=process.env.SMTP_USER&&process.env.SMTP_PASS?nodemailer.createTransport({host:process.env.SMTP_HOST||'smtp.gmail.com',port:Number(process.env.SMTP_PORT||465),secure:process.env.SMTP_SECURE!=='false',auth:{user:process.env.SMTP_USER,pass:process.env.SMTP_PASS}}):null;
   const escapeHtml=value=>String(value??'').replace(/[&<>"']/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
   await mkdir(uploadDir,{recursive:true});
   await db.query('CREATE TABLE IF NOT EXISTS admin_credentials (id TEXT PRIMARY KEY, password_hash TEXT NOT NULL, updated_at TIMESTAMPTZ NOT NULL DEFAULT NOW())');
@@ -61,8 +62,8 @@ export async function createApp(db,{password,uploadDir='./uploads',production=fa
     res.clearCookie('ruby_session',{path:'/api/admin'}).json({ok:true});
   });
   async function catalog(admin=false){
-    const [locations,rooms,media,banners]=await Promise.all([db.query('SELECT * FROM locations ORDER BY position'),db.query(`SELECT * FROM rooms ${admin?'':'WHERE published = true'} ORDER BY created_at,id`),db.query('SELECT * FROM media ORDER BY position,id'),db.query('SELECT * FROM banner_media ORDER BY position,id')]);
-    return {locations:locations.rows,rooms:rooms.rows.map(r=>({...r,media:media.rows.filter(m=>m.room_id===r.id)})),banners:banners.rows};
+    const [locations,rooms,media,banners,settings]=await Promise.all([db.query('SELECT * FROM locations ORDER BY position'),db.query(`SELECT * FROM rooms ${admin?'':'WHERE published = true'} ORDER BY created_at,id`),db.query('SELECT * FROM media ORDER BY position,id'),db.query('SELECT * FROM banner_media ORDER BY position,id'),db.query("SELECT value FROM site_settings WHERE id='main'")]);
+    return {locations:locations.rows,rooms:rooms.rows.map(r=>({...r,media:media.rows.filter(m=>m.room_id===r.id)})),banners:banners.rows,settings:settings.rows[0]?.value||{}};
   }
   app.get('/api/catalog',async(_req,res)=>res.json(await catalog()));
   app.get('/api/admin/catalog',async(_req,res)=>res.json(await catalog(true)));
@@ -97,13 +98,13 @@ export async function createApp(db,{password,uploadDir='./uploads',production=fa
     if(!(await db.query('SELECT id FROM locations WHERE id=$1',[data.location_id])).rows.length)return res.status(400).json({error:'Cơ sở không hợp lệ.'});
     if(data.room_id&&!(await db.query("SELECT id FROM rooms WHERE id=$1 AND location_id=$2 AND published=true AND availability='available'",[data.room_id,data.location_id])).rows.length)return res.status(400).json({error:'Phòng đã được thuê, không còn hiển thị hoặc không thuộc cơ sở đã chọn.'});
     const id=randomUUID();await db.query('INSERT INTO inquiries (id,name,phone,email,location_id,room_id,visit_date,method,note) VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9)',[id,data.name,data.phone,data.email,data.location_id,data.room_id||null,data.visit_date||null,data.method,data.note]);
-    if(mailer){
+    if(mailer){const savedSettings=(await db.query("SELECT value FROM site_settings WHERE id='main'")).rows[0]?.value||{};const notificationTo=(savedSettings.email_notifications||mailTo.join(',')).split(',').map(value=>value.trim()).filter(Boolean);if(!notificationTo.length)return res.status(201).json({id});
       const location=(await db.query('SELECT name FROM locations WHERE id=$1',[data.location_id])).rows[0]?.name||data.location_id;
       const room=data.room_id?(await db.query('SELECT name FROM rooms WHERE id=$1',[data.room_id])).rows[0]?.name:'Cần tư vấn căn hộ';
       const text=[`Có yêu cầu xem phòng mới #${id.slice(0,8).toUpperCase()}`,`Khách hàng: ${data.name}`,`Điện thoại: ${data.phone}`,`Email: ${data.email||'Không cung cấp'}`,`Cơ sở: ${location}`,`Phòng: ${room}`,`Ngày dự kiến: ${data.visit_date||'Chưa chọn'}`,`Hình thức: ${data.method}`,`Lời nhắn: ${data.note||'Không có'}`].join('\n');
       const fields=[['Khách hàng',data.name],['Điện thoại',data.phone],['Email',data.email||'Không cung cấp'],['Cơ sở',location],['Phòng',room],['Ngày dự kiến',data.visit_date||'Chưa chọn'],['Hình thức',data.method]];
       const html=`<!doctype html><html><body style="margin:0;background:#f5f1ed;font-family:Arial,sans-serif;color:#292929"><div style="padding:32px 12px"><div style="max-width:640px;margin:auto;background:#fff;border-top:5px solid #a80316;box-shadow:0 8px 28px rgba(0,0,0,.08)"><div style="padding:28px 32px 20px;border-bottom:1px solid #e8e1dc"><div style="font-size:22px;font-weight:700;color:#a80316">RubyHouse</div><div style="margin-top:6px;font-size:12px;letter-spacing:.12em;color:#777">YÊU CẦU XEM PHÒNG MỚI</div></div><div style="padding:26px 32px"><p style="margin:0 0 22px;color:#555">Khách hàng vừa gửi yêu cầu từ website. Vui lòng liên hệ để xác nhận lịch hẹn.</p><table role="presentation" style="width:100%;border-collapse:collapse">${fields.map(([label,value])=>`<tr><td style="width:135px;padding:11px 8px;border-bottom:1px solid #eee;color:#777;font-size:13px">${label}</td><td style="padding:11px 8px;border-bottom:1px solid #eee;font-weight:600">${escapeHtml(value)}</td></tr>`).join('')}</table><div style="margin-top:24px;padding:18px;background:#f8f3f1;border-left:3px solid #a80316"><div style="font-size:12px;font-weight:700;color:#a80316;letter-spacing:.08em">LỜI NHẮN</div><div style="margin-top:9px;line-height:1.6;white-space:pre-wrap">${escapeHtml(data.note||'Không có')}</div></div><div style="margin-top:24px;font-size:12px;color:#888">Mã yêu cầu: <strong>${id.slice(0,8).toUpperCase()}</strong></div></div><div style="padding:17px 32px;background:#292929;color:#bbb;font-size:11px">RubyHouse · Your trusted home away from home</div></div></div></body></html>`;
-      mailer.sendMail({from:`${process.env.MAIL_FROM_NAME||'RubyHouse Website'} <${process.env.SMTP_USER}>`,to:mailTo,replyTo:data.email||undefined,subject:`[RubyHouse] Yêu cầu xem phòng mới - ${data.name}`,text,html,priority:'high',headers:{Importance:'high','X-Priority':'1'}}).catch(error=>console.error('Không gửi được email thông báo:',error.message));
+      mailer.sendMail({from:`${process.env.MAIL_FROM_NAME||'RubyHouse Website'} <${process.env.SMTP_USER}>`,to:notificationTo,replyTo:data.email||undefined,subject:`[RubyHouse] Yêu cầu xem phòng mới - ${data.name}`,text,html,priority:'high',headers:{Importance:'high','X-Priority':'1'}}).catch(error=>console.error('Không gửi được email thông báo:',error.message));
     }
     res.status(201).json({id});
   });
@@ -116,6 +117,8 @@ export async function createApp(db,{password,uploadDir='./uploads',production=fa
     });
     res.json({ok:true});
   });
+  app.put('/api/admin/settings',async(req,res)=>{const settings=settingsSchema.parse(req.body);await db.query("UPDATE site_settings SET value=$1 WHERE id='main'",[JSON.stringify(settings)]);res.json({ok:true});});
+  app.put('/api/admin/locations',async(req,res)=>{const rows=z.array(z.object({id:z.string(),name:z.string().min(1).max(100),address:z.string().min(1).max(300),description:z.string().max(1000),position:z.number().int()})).parse(req.body);await db.transaction(async tx=>{for(const row of rows)await tx.query('UPDATE locations SET name=$2,address=$3,description=$4,position=$5 WHERE id=$1',[row.id,row.name,row.address,row.description,row.position]);});res.json({ok:true});});
   app.delete('/api/admin/inquiries/:id',async(req,res)=>{
     const result=await db.query('DELETE FROM inquiries WHERE id=$1 RETURNING id',[req.params.id]);
     if(!result.rows.length)return res.status(404).json({error:'Không tìm thấy yêu cầu.'});
